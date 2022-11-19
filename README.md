@@ -12,3 +12,7 @@
 
 📓 &ensp; currently learning and studying:
 - *web development, via [@lighthouse-labs](https://github.com/lighthouse-labs)*
+custom_title - Sets a custom title for the card. Default: <username> GitHub Stats.
+
+<img src="https://github-readme-stats.vercel.app/api?username=tai-de&hide_title=true&theme=onedark&count_private=true&hide=prs,issues&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tai-de&hide_title=true&layout=compact&theme=onedark&card_width=445" />
