@@ -29,7 +29,7 @@
 
 [!['Work'](https://img.shields.io/badge/Professional_Device-008080?style=for-the-badge&logoColor=white)](#)
 
-[!['MacBook Pro'](https://img.shields.io/badge/Apple-MacBook_Pro_(13",%20M1,%202021)-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
+[!['MacBook Pro'](https://img.shields.io/badge/Apple-MacBook_Pro_(14",%20M1,%202021)-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
 
 [!['Play'](https://img.shields.io/badge/Personal_Device-008080?style=for-the-badge&logoColor=white)](#)
 
