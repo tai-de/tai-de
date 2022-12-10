@@ -30,10 +30,12 @@
 <!-- [!['Work'](https://img.shields.io/badge/Professional_Device-008080?style=for-the-badge&logoColor=white)](#)
 [!['Play'](https://img.shields.io/badge/Personal_Device-008080?style=for-the-badge&logoColor=white)](#) -->
 
-[!['MacBook Pro'](https://img.shields.io/badge/Apple-MacBook_Pro_(14",%20M1,%202021)-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
+[!['MacBook Pro'](https://img.shields.io/badge/MacBook_Pro-14%22,_M1_Pro,_2021-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
 
-[!['Zephyrus G14'](https://img.shields.io/badge/rog-zephyrus%20g14-FF0029?style=for-the-badge&logo=republic-of-gamers&logoColor=white)](#)
-[!['Ryzen 7'](https://img.shields.io/badge/AMD-Ryzen_7_5800HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#)
+[!['Zephyrus G14'](https://img.shields.io/badge/ROG_Zephyrus_G14-AMD_Ryzen_7_5800HS-333333?style=for-the-badge&logo=republic-of-gamers&logoColor=white)](#)
+
+<!-- [!['Zephyrus G14'](https://img.shields.io/badge/rog-zephyrus%20g14-FF0029?style=for-the-badge&logo=republic-of-gamers&logoColor=white)](#)
+[!['Ryzen 7'](https://img.shields.io/badge/AMD-Ryzen_7_5800HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white)](#) -->
 
 <!-- ## 💻 &ensp; Software, Systems & Tools
 
