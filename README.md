@@ -31,6 +31,8 @@
 [!['SASS'](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)](#)
 [!['Storybook'](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](#)
 
+[!['Phaser'](https://img.shields.io/badge/Phaser-99388c?style=for-the-badge)](#)
+
 ## &ensp;💻&emsp;Hardware
 
 [!['MacBook Pro'](https://img.shields.io/badge/MacBook_Pro-14%22,_M1_Pro,_2021-333333?style=for-the-badge&logo=apple&logoColor=white)](#)
