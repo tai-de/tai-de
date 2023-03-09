@@ -8,14 +8,10 @@
 ## &ensp;💼&emsp;Work
 
 - 11 years [@telus](https://github.com/telus):
+  - *full stack developer, telus digital*
   - *technical writer/author, internal help systems*
   - *sales, service, and support, residential and wireless products*
   - *communications specialist, social media operations*
-
-## &ensp;📓&emsp;Learn
-
-- enrolled [@lighthouse-labs](https://github.com/lighthouse-labs)
-  - *web development, full-time bootcamp*
 
 ## &ensp;🔣&emsp;Languages & Frameworks
 
